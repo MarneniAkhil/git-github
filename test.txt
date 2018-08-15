@@ -9,4 +9,4 @@ akhil.marneni@gmail.com
 ntt data
 
 ##technology
-java, .net
+java, machine learning, aws,
