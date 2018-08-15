@@ -6,6 +6,7 @@ Hi this is git project
 ##GIT GITHUB Training
 this is used to train the github training
 This is the faous and one of the famous traiing session.
+Adding git rebase taining 
 
 ##GIHUB content
 
