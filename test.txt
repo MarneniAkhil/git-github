@@ -8,5 +8,8 @@ akhil kumar
 akhil.marneni@gmail.com
 ntt data
 
+#thanks
+Akhil
+
 ##technology
-java, .net
+java, .net, docker, spluck, sharepoit
