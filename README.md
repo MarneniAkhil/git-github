@@ -8,6 +8,7 @@ And a lot of lectures comming on
 this is used to train the github training
 This is the faous and one of the famous traiing session.
 Adding git rebase taining 
+adding new lectures
 
 ##GIHUB content
 
