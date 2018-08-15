@@ -3,3 +3,6 @@
 ##instruction
 
 ##GIT github training
+
+##technology
+java, .net
