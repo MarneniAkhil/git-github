@@ -8,5 +8,9 @@ akhil kumar
 akhil.marneni@gmail.com
 ntt data
 
+#thanks
+Akhil
+
 ##technology
 java, machine learning, aws,
+
