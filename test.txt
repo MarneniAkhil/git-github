@@ -4,5 +4,9 @@
 
 ##GIT github training
 <name><akhil><>
+akhil kumar
+akhil.marneni@gmail.com
+ntt data
+
 ##technology
 java, .net
